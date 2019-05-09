@@ -5,8 +5,8 @@ namespace AlibabaCloud\Nlp;
 use AlibabaCloud\Client\Resolver\VersionResolver;
 
 /**
- * @deprecated
+ * @method static V20180408\NlpApiResolver v20180408()
  */
-class NlpVersion extends VersionResolver
+class Nlp extends VersionResolver
 {
 }
